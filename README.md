@@ -1,6 +1,11 @@
 # Project
 All project related material should be submitted in this repository including project proposal, interim presentation, code implementations, results, paper draft, final paper submission.
 
+# Possible Projects
+You can select projects from the following links or propose your own project:
+ * https://drive.google.com/open?id=1VCdn0zVdaUSYRt1zopb2AkCqKBajtipM
+ * https://community.rti.com/projects
+
 # ProjectProposal
 Your proposal should include the following:
   * Abstract: Briefly explain the problem and your proposed contributions
